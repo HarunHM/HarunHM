@@ -9,7 +9,7 @@ Lux Tech Academy is a free 20 weeks online training BootCamp which have crash an
 <b> Email: </b> luxtinc@gmail.com
 
 
-[❤️ Our Webpage ](https://luxtechacademy.com/)   
+[❤️ Our WebSite ](https://luxtechacademy.com/)   
 
 
 
