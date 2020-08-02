@@ -1,4 +1,8 @@
-## Welcome To Lux Tech Academy💻 <span align="right"> <img src="https://komarev.com/ghpvc/?username=HarunHM" alt="Lux Tech Academy" /> </span>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=HarunHM" alt="Lux Tech Academy" /> </p>
+
+
+## Welcome To Lux Tech Academy💻  
+
 
 <center> 
   <img src="https://github.com/HarunHM/HarunHM/blob/master/S.png" alt="Lux Tech Academy barner photo for profile">
