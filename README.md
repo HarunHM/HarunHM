@@ -15,4 +15,4 @@ Lux Tech Academy is a free 20 and 10 weeks online training BootCamp which have c
 <b> Twitter: </b> [ @Lux_academy 🐦](https://twitter.com/lux_academy)
 
 
-<b> Website: </b> [❤️ Our WebSite ](https://luxtechacademy.com/)   
+<b> ❤️ Mantained By : </b> [ Harun Mbaabu Mwenda ](https://twitter.com/HarunMbaabu)   
